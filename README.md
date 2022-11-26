@@ -1,4 +1,1 @@
-#alx-pre_course
-
-My first readme updated
-
+My first readme
